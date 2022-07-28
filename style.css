@@ -5,6 +5,14 @@
     font-family: 'Poppins', sans-serif;
 }
 
+/* Banner Section */
+
+.carousel-item .img-banner {
+
+    filter: brightness(40%);
+}
+
+
 
 /* Media Queries */
 
